@@ -1,1 +1,2 @@
-print("I start my python journey today – December 1, 2025")
+name = input("What's your name? ")
+print("Hello, " + name + "! Welcome to Day 2 of your AI journey.")
